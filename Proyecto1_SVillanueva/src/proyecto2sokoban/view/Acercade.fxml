@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="437.0" prefWidth="600.0" style="-fx-background-color: BLACK;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proyecto2sokoban.controller.AcercadeController">
+    <stylesheets>
+        <URL value="@style.css" />
+      <URL value="@style.css" />
+    </stylesheets>
+   <children>
+      <Label alignment="CENTER" layoutX="116.0" layoutY="60.0" prefHeight="21.0" prefWidth="202.0" text="Sokoban version mario bros" />
+      <ImageView fitHeight="49.0" fitWidth="49.0" layoutX="67.0" layoutY="46.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../resource/images%20-%20copia.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="67.0" layoutY="113.0" prefHeight="32.0" prefWidth="433.0" text="Juego Sokoban proyecto asignado en el curso de progrmacion 2 " />
+      <Label layoutX="67.0" layoutY="186.0" text="Universidad Nacional de Costa Rica" />
+      <Label layoutX="67.0" layoutY="219.0" text="Estudiante: Sergio Villanueva Rios" />
+      <Label layoutX="67.0" layoutY="256.0" text="Primer Ciclo del 2020" />
+      <Label layoutX="66.0" layoutY="152.0" text="Version inspirida del juego Original y visual Mario Bros" />
+   </children>
+</AnchorPane>
