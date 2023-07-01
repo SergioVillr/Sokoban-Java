@@ -26,10 +26,14 @@ MENU MAPAS
 
 
 BACKGROUND 1
+
+
 [![MENU-MAPAS-F1.png](https://i.postimg.cc/pLBgCZBT/MENU-MAPAS-F1.png)](https://postimg.cc/mPtX27Jf)
 
 
 BACKGROUND 2
+
+
 [![MENU-MAPAS-F2.png](https://i.postimg.cc/wTpfrNMs/MENU-MAPAS-F2.png)](https://postimg.cc/RqgL6NcM)
 
 
