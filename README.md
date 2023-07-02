@@ -19,7 +19,7 @@ MENU
 ACERCA DE
 
 
-[![Acerca-de.png](https://i.postimg.cc/Z0tctGJS/Acerca-de.png)](https://postimg.cc/5Qgv8kH7)
+[![Acerca-de.png](https://i.postimg.cc/vTxFbqNz/Acerca-de.png)](https://postimg.cc/V0wHFR1r)
 
 
 MENU MAPAS
